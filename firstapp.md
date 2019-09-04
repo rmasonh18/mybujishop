@@ -4,7 +4,7 @@
 3. Skipped to deploy to move to local environment
 ## Steps to build in local environment
 1. install angular cli -- npm install -g @angular/cli
-2. ng new "\<project name>\"
+2. ng new \<project name>\
 3. cd <project name>
 4 replace src folder from stackblitz in project
 5. ng serve 
