@@ -1,6 +1,10 @@
 # Mybujishop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
+This project was created from getting started at angular.io
+see deployment to run project locally 
+please note due to changes in version of angular to properly compile and run
+1. replace src folder with project src
+2. in package.json ---> cut dependecies and replace in project
 
 ## Development server
 
