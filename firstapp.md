@@ -1,4 +1,4 @@
-#Getting Started
+# Getting Started
 1. App from angular.io tutorial part 1
 2. Initial build with StackBlitz
 3. Skipped to deploy to move to local environment
